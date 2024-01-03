@@ -1,0 +1,18 @@
+
+  ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {font-family: Rubik Doodle Shadow;
+    margin: 50px 0;
+    font-size: 2.5rem;
+  }
+
+  a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
