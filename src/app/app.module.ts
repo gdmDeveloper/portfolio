@@ -14,7 +14,7 @@ import { MenuComponent } from './menu/menu.component';
     InicioComponent,
     ProyectosComponent,
     ContactoComponent,
-    MenuComponent
+    MenuComponent,
   ],
   imports: [
     BrowserModule,
